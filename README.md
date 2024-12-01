@@ -1,9 +1,9 @@
 **Name:** VADAMODULA DEEPAK
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT6WDS2196
-**Domain:**Artificial intelligence
+**Domain:** Artificial intelligence
 **Duration:** oct to dec 2024
-**Mentor:**
+**Mentor:** Muzammil ahmed
 
 ##Overview of the project
 
